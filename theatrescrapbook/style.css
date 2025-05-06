@@ -209,7 +209,7 @@
 
 body,
 * {
-  font-family: 'Press Start 2P', Courier, monospace;
+  font-family: 'Press Start 2P';
   color: rgba(0, 255, 0, 0.6);
   background-color: #000;
   box-sizing: border-box;
